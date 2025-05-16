@@ -7,7 +7,6 @@ gradle-wrapper.jar
 GeneratedPluginRegistrant.java
 .cxx/
 android/app/google-services.json
-
 key.properties
 **/*.keystore
 **/*.jks
