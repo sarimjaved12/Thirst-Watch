@@ -89,7 +89,8 @@ Thirst Watch is a smart water intake tracking system designed to help users stay
     ".write": "true"
   }
 }
-3. Add the Firebase configuration to your Flutter app.
+3. Download the google-services.json file from your Firebase project and place it in the android/app/ directory of your project. Note that the google-services.json file, which contains Firebase configuration details, has been excluded from version control for security reasons.
+4. Add the Firebase configuration to your Flutter app.   
 
 ### **4. Flutter App**
 1. Clone this repository: 
@@ -118,6 +119,8 @@ flutter run
 ![Hardware Setup](assets/images/hardware_setup.jpeg)
 ### **Video Demonstration**
 [Click here to watch the video](https://drive.google.com/file/d/1fC8U-SN5D2niCnymuzBcVBt0MhHlc-ej/view?usp=drivesdk)
+OR
+[Click here to watch the video](https://youtube.com/shorts/w25Yaw8tsSQ)
 
 ## **Future Improvements**
 1. Add notifications to remind users to drink water.
